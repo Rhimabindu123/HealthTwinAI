@@ -1,0 +1,19 @@
+{
+    "test_type": "unseen_patients",
+    "data_type": "synthetic",
+    "forecast_horizon_hours": 2,
+    "training_patients": 80,
+    "testing_patients": 20,
+    "training_rows": 13120,
+    "testing_rows": 3280,
+    "model": {
+        "MAE": 4.994,
+        "RMSE": 6.227,
+        "R2": 0.89
+    },
+    "baseline_current_glucose": {
+        "MAE": 5.546,
+        "RMSE": 6.925,
+        "R2": 0.864
+    }
+}

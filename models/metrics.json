@@ -1,0 +1,20 @@
+{
+    "model": {
+        "MAE": 4.918,
+        "RMSE": 6.121,
+        "R2": 0.873
+    },
+    "baseline_current_glucose": {
+        "MAE": 5.369,
+        "RMSE": 6.786,
+        "R2": 0.844
+    },
+    "training_rows": 13000,
+    "testing_rows": 3200,
+    "training_last_input_hour": 131,
+    "testing_first_input_hour": 134,
+    "forecast_horizon_hours": 2,
+    "unique_training_patients": 100,
+    "unique_testing_patients": 100,
+    "data_type": "synthetic"
+}
