@@ -133,3 +133,11 @@ To demonstrate how synthetic health data, machine learning, and an interactive d
 ## Architecture Diagram
 
 [View HealthTwin AI Architecture Diagram](./HealthTwinAI_Architecture_Diagram.pdf)
+
+## College / Incubator Information
+
+- **College:** CMR Engineering College
+- **Location:** Hyderabad, Telangana, India
+- **Department:** Information Technology
+- **Program:** B.Tech
+- **Incubator:** Not applicable.
