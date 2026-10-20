@@ -129,3 +129,7 @@ To demonstrate how synthetic health data, machine learning, and an interactive d
 ## Project Presentation
 
 [View HealthTwin AI Presentation](./HealthTwinAI_Presentation_Rudramoni_Himabindu.pptx)
+
+## Architecture Diagram
+
+[View HealthTwin AI Architecture Diagram](./HealthTwinAI_Architecture_Diagram.pdf)
