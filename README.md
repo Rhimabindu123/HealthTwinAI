@@ -111,15 +111,21 @@ streamlit run app.py
 ```bash
 python evaluate_unseen_patients.py
 ```
-
 ## Limitations and Future Work
+
 - The dataset is synthetic and may not represent real physiological behaviour.
 - The model has not been clinically validated.
 - Sensor readings are simulated rather than received from a real wearable device.
 - Future work could explore prediction uncertainty, external validation, individualized calibration, and secure wearable integration.
 
 ## Disclaimer
+
 HealthTwin AI is an educational prototype, not a medical device. Predictions must not be used to make medical decisions.
 
 ## Project Goal
+
 To demonstrate how synthetic health data, machine learning, and an interactive dashboard can be combined in an exploratory digital twin workflow.
+
+## Project Presentation
+
+[View HealthTwin AI Presentation](./HealthTwinAI_Presentation_Rudramoni_Himabindu.pptx)
