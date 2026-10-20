@@ -141,3 +141,24 @@ To demonstrate how synthetic health data, machine learning, and an interactive d
 - **Department:** Information Technology
 - **Program:** B.Tech
 - **Incubator:** Not applicable.
+
+## Team Details
+
+- **Team Name:** HealthTwin AI
+- **Team Lead / Sole Contributor:** Rudramoni Himabindu
+- **Team Size:** 1
+- **Contribution:** Project development, data processing, machine learning, model evaluation, and Streamlit dashboard development.
+
+## Healthcare Use Case
+
+HealthTwin AI demonstrates how machine learning can be used to forecast blood glucose levels two hours ahead using historical glucose readings and synthetic patient data.
+
+The interactive dashboard allows users to:
+- Explore synthetic patient profiles and glucose trends.
+- View model-generated glucose forecasts.
+- Simulate new sensor readings.
+- Compare model performance against a baseline.
+
+**Intended use:** Educational research and demonstration of predictive healthcare technology.
+
+**Limitation:** The prototype uses synthetic data, has not been clinically validated, and must not be used for medical diagnosis or treatment decisions.
