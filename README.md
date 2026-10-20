@@ -162,3 +162,7 @@ The interactive dashboard allows users to:
 **Intended use:** Educational research and demonstration of predictive healthcare technology.
 
 **Limitation:** The prototype uses synthetic data, has not been clinically validated, and must not be used for medical diagnosis or treatment decisions.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
